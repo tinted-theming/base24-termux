@@ -10,7 +10,7 @@
 
 <img src="readme-assets/icons/name.png" alt="Project Icon" width="750">
 
-Base 16 themes for Termux https://termux.com/
+Base 24 themes for Termux https://termux.com/
 
 **Find themes under [output/schemes](output/schemes)**
 
